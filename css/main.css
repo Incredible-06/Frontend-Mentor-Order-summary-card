@@ -98,8 +98,8 @@ body {
     color: #fff;
     display: block;
     text-decoration: none;
-    padding: 10px;
-    margin-bottom: 20px;
+    padding: 0.625em;
+    margin-bottom: 1.25em;
     border-radius: 0.7em;
 }
 

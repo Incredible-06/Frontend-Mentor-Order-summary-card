@@ -14,7 +14,7 @@ body {
 .content {
     background: hsl(225, 100%, 94%);
     width: 24em;
-    height: 34.5em;
+    height: 33.5em;
     text-align: center;
     border-radius: 1.1em;
 }
@@ -34,6 +34,7 @@ body {
 
 .content .info {
     display: block;
+    width: 19em;
     margin: 0 auto;
 }
 
@@ -99,7 +100,7 @@ body {
     text-decoration: none;
     padding: 10px;
     margin-bottom: 20px;
-    border-radius: 50px;
+    border-radius: 0.7em;
 }
 
 .info .card-buttons .cancel {
